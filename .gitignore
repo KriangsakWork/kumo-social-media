@@ -1,0 +1,5 @@
+
+# secrets — ห้าม commit
+.env
+.env.*
+!.env.example
